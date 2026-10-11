@@ -11,10 +11,10 @@ I'm an aspiring **Electrical / Mechanical Engineer**, passionate about bridging 
 
 ### 📁 Repositories
 
-| Name | Description | Focus | Date |
-|---|---|---|---|
-| [Universal-M5-ActionRemote](https://github.com/kullaniciadin/Universal-M5-ActionRemote-Wi-Fi-BLE-) | Custom firmware for an action camera remote | C++, IoT | 2026-08-24|
-| [AI-Powered-Multitaskingbot](https://github.com/Cnayx/AI-Powered-MultitaskingBot-for-Discord) | Multi-featured AI-powered bot for Discord | Python, JS | 2026-08-29|
+| Name | Description | Focus |
+|---|---|---|
+| [Universal-M5-ActionRemote](https://github.com/kullaniciadin/Universal-M5-ActionRemote-Wi-Fi-BLE-) | Custom firmware for an action camera remote | C++, IoT |
+| [AI-Powered-Multitaskingbot](https://github.com/Cnayx/AI-Powered-MultitaskingBot-for-Discord) | Multi-featured AI-powered bot for Discord | Python, JS |
 
 
 ### 🌐 Languages
@@ -25,13 +25,5 @@ I'm an aspiring **Electrical / Mechanical Engineer**, passionate about bridging 
 
 ---
 ### 📫 Contact
-- **Email:** [cnademirci07@proton.me](cnademirci07@proton.me)
-
-<div align="center">
-  
-  <!-- BANNER -->
-  <img width="1280" height="400" alt="Image" src="https://github.com/user-attachments/assets/0c736128-e7a2-4e6d-8432-ff853c25aa46" />
-  
-  <br>
-
+- **Email:** [cademirci2009@gmail.com](cademirci2009@gmail.com)
 
