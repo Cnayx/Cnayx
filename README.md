@@ -13,8 +13,8 @@ I'm an aspiring **Electrical / Mechanical Engineer**, passionate about bridging 
 
 | Name | Description | Focus |
 |---|---|---|
-| [Universal-M5-ActionRemote](https://github.com/kullaniciadin/Universal-M5-ActionRemote-Wi-Fi-BLE-) | Custom firmware for an action camera remote | C++, IoT |
-| [AI-Powered-Multitaskingbot](https://github.com/Cnayx/AI-Powered-MultitaskingBot-for-Discord) | Multi-featured AI-powered bot for Discord | Python, JS |
+| [Universal-M5-ActionRemote]([https://github.com/kullaniciadin/Universal-M5-ActionRemote-Wi-Fi-BLE-](https://github.com/Cnayx/Universal-M5-ActionRemote-Wi-Fi-BLE-)) | Custom firmware for an action camera remote | C++, IoT |
+| [AI-Powered-Multitaskingbot]([https://github.com/Cnayx/AI-Powered-MultitaskingBot-for-Discord](https://github.com/Cnayx/AI-Powered-MultitaskingBot-for-Discord)) | Multi-featured AI-powered bot for Discord | Python, JS |
 
 
 ### 🌐 Languages
